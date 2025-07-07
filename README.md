@@ -1,6 +1,6 @@
 ## 👋 Salut à tous !
 
-Je suis **Hissein Haroun D**, développeur web et ingénieur logiciel diplômé de l’**INSTA Abéché, Tchad** 🇹🇩.
+Je suis **Hissein Haroun DAOUD**, développeur web et ingénieur logiciel diplômé de l’**INSTA Abéché, Tchad** 🇹🇩.
 
 ---
 
@@ -17,8 +17,8 @@ Je suis **Hissein Haroun D**, développeur web et ingénieur logiciel diplômé 
 ### 🧰 Stack actuelle
 
 - **Langages** : HTML, CSS, JavaScript
-- **Frontend** :  React (en cours d'apprentissage)
-- **Backend** : Node.js (débutant)
+- **Frontend** :  Vue Js ,React (en cours d'apprentissage)
+- **Backend** : Node.js , Express (débutant)
 - **Outils** : Git, GitHub, VS Code
 - **Méthodes** : Responsive Design, gestion DOM, `localStorage`
 
